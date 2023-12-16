@@ -1,5 +1,5 @@
 authorizedSettings = {
 "d843ae21a8d40000", -- Test1
 "325adcdd90000001325adcdd90000021325adcdd90000f4b52032d1a80000", -- Test2
-"1c27efd69e47c8d97c11e3b98337ab869be62181" -- Test3
+"1c27efd69e47c8d97c11e3b98337ab869be62181" -- Kingtin
 }
