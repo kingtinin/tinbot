@@ -1,7 +1,10 @@
 authorizedCharacters = {
+-- Potato Characters
 "Kingtin",
 "Test Kingtin",
+-- Otato Characters
 "Kingtin Test",
 "Test",
+-- Oatta Characters
 "Mr Biren"
 }
