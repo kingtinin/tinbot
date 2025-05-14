@@ -1,7 +1,6 @@
 authorizedCharacters = {
 -- Potato Characters 
    "Test Kingtin",
-   "Kingtin",
 -- Otato Characters
    "Kingtin Test",
    "Test",
