@@ -6,6 +6,5 @@ authorizedCharacters = {
    "Kingtin Test",
    "Test",
 -- Oatta Characters
-   "Mr Biren",
    "Otato Character"
 }
