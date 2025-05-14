@@ -1,9 +1,0 @@
-authorizedCharacters = {
--- Potato Characters 
-   "Test Kingtin",
--- Otato Characters
-   "Kingtin Test",
-   "Test",
--- Oatta Characters
-   "Otato Character"
-}
