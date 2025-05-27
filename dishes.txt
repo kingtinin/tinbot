@@ -1,5 +1,4 @@
 authorizedIDs = {
-"c709e8a212fe3c9343bfa3c9b65bba91a15b19b9", -- Kingtin
 "4014a35e58af30d58844f7808ce06c0016767eca", -- Dehael
 "8f8a63b2dbd390929851d20b2aa203e6720d307d", -- bilaaltv
 }
