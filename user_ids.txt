@@ -1,10 +1,8 @@
 authorizedIDs = {
-"c709e8a212fe3c9343bfa3c9b65bba91a15b19b9", -- Kingtin
 "5aa71fb0ad5a4c1c1f43571853bdecbfac9656a2", -- Kingdruid_
 "8f8a63b2dbd390929851d20b2aa203e6720d307d", -- bilaaltv
 "38277a96b3ebd34a484ea804b7e2707248ea5596", -- virlann
 "c3dc0c806cd4559583359aca2d6625aee38605eb", -- victro9541
-"73de7cd1349d76f4f9292572399ce1df40caa6af", -- imbier
 "4014a35e58af30d58844f7808ce06c0016767eca", -- dehael
 "0c10021b7284992eee3afe902104a6a9a0fe6304", -- .hardflex
 }
