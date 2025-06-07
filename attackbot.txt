@@ -7,4 +7,5 @@ authorizedIDs = {
 "8f8a63b2dbd390929851d20b2aa203e6720d307d", -- bilaaltv
 "94e067d3e7a4954a71f5cff3be43cec77820f9fe", -- japsaus
 "638459b83294cafd25007b2a8f4ed778e99b8f31", -- emiinence_in_shadow
+"49cbf47368b275055c69c09fe2c949ebcb403717", -- kiss
 }
