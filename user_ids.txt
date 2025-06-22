@@ -6,4 +6,5 @@ authorizedIDs = {
 "4014a35e58af30d58844f7808ce06c0016767eca", -- dehael
 "0c10021b7284992eee3afe902104a6a9a0fe6304", -- .hardflex
 "6d3551dc7bd2c480ba5168a115e18b49e30cdad1", -- Loromaris
+"93420f61cd3fc7ebedb43036b80fdc27d3a3caae", -- elbambino1210
 }
