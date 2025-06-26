@@ -1,7 +1,7 @@
 authorizedIDs = {
 "4014a35e58af30d58844f7808ce06c0016767eca", -- Dehael
 "8f8a63b2dbd390929851d20b2aa203e6720d307d", -- bilaaltv
-"6d3551dc7bd2c480ba5168a115e18b49e30cdad1", -- Loromaris
+"6546627476156940d5bf548704adfe8db52666d4", -- Loromaris
 "d00e306a5f1a23b1ed7acc0a10aa91b8285d7ebe", -- lowczyma94
 "638459b83294cafd25007b2a8f4ed778e99b8f31", -- emiinence_in_shadow
 }
