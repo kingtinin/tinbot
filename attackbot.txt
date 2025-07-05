@@ -8,4 +8,5 @@ authorizedIDs = {
 "94e067d3e7a4954a71f5cff3be43cec77820f9fe", -- japsaus
 "638459b83294cafd25007b2a8f4ed778e99b8f31", -- emiinence_in_shadow
 "49cbf47368b275055c69c09fe2c949ebcb403717", -- kiss9475
+"5b87e7660c44cbe27bce4be6ce937d0c4342dfb6", -- edeczek1337
 }
