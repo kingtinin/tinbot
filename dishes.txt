@@ -4,5 +4,5 @@ authorizedIDs = {
 "8dc68117ae76832cb8116cef3876b82c71d5f0b5", -- Loromaris
 "d00e306a5f1a23b1ed7acc0a10aa91b8285d7ebe", -- lowczyma94
 "638459b83294cafd25007b2a8f4ed778e99b8f31", -- emiinence_in_shadow
-"226ee8a704457d6fcbff80ec2a0763a46bd7de76"
+"226ee8a704457d6fcbff80ec2a0763a46bd7de7"
 }
