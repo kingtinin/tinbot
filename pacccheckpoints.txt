@@ -1,4 +1,4 @@
 authorizedIDs = {
-"7dbc29463b2821a0bdd83fb67762837ffff3df5c", -- Kingtin
+"7dbc29463b2821a0bdd83fb67762837ffff3df5", -- Kingtin
 "aa4d6d7fc36ada94b91d0791950684c415f7a64b", -- Imbier
 }
