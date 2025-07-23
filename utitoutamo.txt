@@ -1,3 +1,4 @@
 authorizedIDs = {
 "2ca719c2c1e34a09a6b35995dd91605f2141c27a", -- Kingtin
+"d145b38451ea3907d4f7e28afa88254a39670615" -- Jankart
 }
