@@ -1,5 +1,5 @@
 authorizedIDs = {
-  "226ee8a704457d6fcbff80ec2a0763a46bd7de7", -- (actualizado)
+"226ee8a704457d6fcbff80ec2a0763a46bd7de76", -- (actualizado)
 "73de7cd1349d76f4f9292572399ce1df40caa6af", -- actualizado
 "6a945fae03b4f0b3f119195c4284cac2c8c852ac", -- actualizado
 "4014a35e58af30d58844f7808ce06c0016767eca", -- actualizado
