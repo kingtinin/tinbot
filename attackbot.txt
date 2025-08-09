@@ -1,12 +1,11 @@
 authorizedIDs = {
-"226ee8a704457d6fcbff80ec2a0763a46bd7de76", -- (actualizado)
-"73de7cd1349d76f4f9292572399ce1df40caa6af", -- actualizado
-"6a945fae03b4f0b3f119195c4284cac2c8c852ac", -- actualizado
-"4014a35e58af30d58844f7808ce06c0016767eca", -- actualizado
-"d00e306a5f1a23b1ed7acc0a10aa91b8285d7ebe", -- actualizado
-"8f8a63b2dbd390929851d20b2aa203e6720d307d", -- actualizado
-"94e067d3e7a4954a71f5cff3be43cec77820f9fe", -- actualizado
-"638459b83294cafd25007b2a8f4ed778e99b8f31", -- actualizado
-"49cbf47368b275055c69c09fe2c949ebcb403717", -- actualizado
-"5b87e7660c44cbe27bce4be6ce937d0c4342dfb6", -- actualizado
+"226ee8a704457d6fcbff80ec2a0763a46bd7de76", -- Kingtin
+"6a945fae03b4f0b3f119195c4284cac2c8c852ac", -- Loromaris
+"4014a35e58af30d58844f7808ce06c0016767eca", -- dehael
+"d00e306a5f1a23b1ed7acc0a10aa91b8285d7ebe", -- lowczyma94
+"8f8a63b2dbd390929851d20b2aa203e6720d307d", -- bilaaltv
+"94e067d3e7a4954a71f5cff3be43cec77820f9fe", -- japsaus
+"638459b83294cafd25007b2a8f4ed778e99b8f31", -- emiinence_in_shadow
+"49cbf47368b275055c69c09fe2c949ebcb403717", -- kiss9475
+"5b87e7660c44cbe27bce4be6ce937d0c4342dfb6", -- edeczek1337
 }
