@@ -1,3 +1,4 @@
 authorizedIDs = {
 "264840c45237c61ef532a68897194fec0edb6237", -- Savasina
+"264840c45237c61ef532a68897194fec0edb6237"
 }
