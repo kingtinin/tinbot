@@ -1,4 +1,5 @@
 authorizedIDs = {
 "226ee8a704457d6fcbff80ec2a0763a46bd7de76", -- Kingtin5
-"8f8a63b2dbd390929851d20b2aa203e6720d307d" -- Bilal
+"8f8a63b2dbd390929851d20b2aa203e6720d307d", -- Bilal
+"d145b38451ea3907d4f7e28afa88254a39670615" -- Jankart
 }
