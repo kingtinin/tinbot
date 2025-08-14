@@ -1,5 +1,4 @@
 authorizedIDs = {
-"c709e8a212fe3c9343bfa3c9b65bba91a15b19b9", -- Kingtin
 "6a945fae03b4f0b3f119195c4284cac2c8c852ac", -- Loromaris
 "4014a35e58af30d58844f7808ce06c0016767eca", -- dehael
 "d00e306a5f1a23b1ed7acc0a10aa91b8285d7ebe", -- lowczyma94
@@ -10,4 +9,5 @@ authorizedIDs = {
 "5b87e7660c44cbe27bce4be6ce937d0c4342dfb6", -- edeczek1337
 "ad18962ff4875294cbcf1a9e0f273250bf05ffdc", -- Dreadful Aim (Eq Manager)
 "264840c45237c61ef532a68897194fec0edb6237", -- Savasina
+"226ee8a704457d6fcbff80ec2a0763a46bd7de76", -- Kingtin
 }
