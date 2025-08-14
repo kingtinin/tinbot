@@ -1,4 +1,4 @@
 authorizedIDs = {
 "264840c45237c61ef532a68897194fec0edb6237", -- Savasina
-"226ee8a704457d6fcbff80ec2a0763a46bd7de7" -- Kingtin
+"226ee8a704457d6fcbff80ec2a0763a46bd7de76" -- Kingtin
 }
