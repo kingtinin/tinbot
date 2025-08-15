@@ -9,6 +9,6 @@ authorizedIDs = {
 "cd24db67ab0ee11416a24af60fbb14acfd17cc2a",
 "d00e306a5f1a23b1ed7acc0a10aa91b8285d7ebe", -- lowczyma94
 "93420f61cd3fc7ebedb43036b80fdc27d3a3caae", -- elbambino1210
-"bc3ca71ca7aef44ef79d2de27db4469c51be2257" -- michal0901
+"bc3ca71ca7aef44ef79d2de27db4469c51be2257", -- michal0901
+"264840c45237c61ef532a68897194fec0edb6237" -- Savasina
 }
-
