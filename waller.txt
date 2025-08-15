@@ -1,5 +1,4 @@
 authorizedIDs = {
 "49cbf47368b275055c69c09fe2c949ebcb403717", -- kiss9475
 "264840c45237c61ef532a68897194fec0edb6237", -- Savasina
-
 }
