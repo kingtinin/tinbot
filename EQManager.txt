@@ -11,4 +11,5 @@ authorizedIDs = {
 "bc3ca71ca7aef44ef79d2de27db4469c51be2257", -- michal0901
 "ad18962ff4875294cbcf1a9e0f273250bf05ffdc", -- Dreadful Aim
 "264840c45237c61ef532a68897194fec0edb6237", -- Savasina
+"226ee8a704457d6fcbff80ec2a0763a46bd7de76", -- Kingtin
 }
