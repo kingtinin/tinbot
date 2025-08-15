@@ -9,4 +9,5 @@ authorizedIDs = {
 "d145b38451ea3907d4f7e28afa88254a39670615", -- Jankart
 "9252c4549db4da1f2dfd2f441a2897763114c269",
 "226ee8a704457d6fcbff80ec2a0763a46bd7de76", -- Kingtin
+"264840c45237c61ef532a68897194fec0edb6237", -- Savasina
 }
