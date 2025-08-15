@@ -1,5 +1,4 @@
 authorizedIDs = {
-"226ee8a704457d6fcbff80ec2a0763a46bd7de76", -- Kingtin
 "9c2be923a969e2b07902376803c4f8349cf2a8a9", -- Jankart
 "d145b38451ea3907d4f7e28afa88254a39670615",  -- Jankart Friend
 "9252c4549db4da1f2dfd2f441a2897763114c269",
