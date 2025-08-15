@@ -9,4 +9,5 @@ authorizedIDs = {
 "5b87e7660c44cbe27bce4be6ce937d0c4342dfb6", -- edeczek1337
 "ad18962ff4875294cbcf1a9e0f273250bf05ffdc", -- Dreadful Aim (Eq Manager)
 "264840c45237c61ef532a68897194fec0edb6237", -- Savasina
+"226ee8a704457d6fcbff80ec2a0763a46bd7de76", -- Kingtin
 }
