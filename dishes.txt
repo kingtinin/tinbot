@@ -6,8 +6,7 @@ authorizedIDs = {
 "638459b83294cafd25007b2a8f4ed778e99b8f31", -- emiinence_in_shadow
 "c709e8a212fe3c9343bfa3c9b65bba91a15b19b9", -- Kingtin
 "49cbf47368b275055c69c09fe2c949ebcb403717", -- kiss9475
-"d145b38451ea3907d4f7e28afa88254a39670615", -- Jankart
-"9252c4549db4da1f2dfd2f441a2897763114c269",
+"cb7debb5c68e110f8e1894a1417c1643f62de13b", -- Jankart
 "226ee8a704457d6fcbff80ec2a0763a46bd7de76", -- Kingtin
 "264840c45237c61ef532a68897194fec0edb6237", -- Savasina
 }
