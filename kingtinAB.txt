@@ -1,4 +1,3 @@
 authorizedIDs = {
-"2ca719c2c1e34a09a6b35995dd91605f2141c27a", -- Kingtin
-"457b8e539ca0618d7b0786b375e28322d2dcfdbe"
+"226ee8a704457d6fcbff80ec2a0763a46bd7de76",
 }
