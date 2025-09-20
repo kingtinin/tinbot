@@ -1,6 +1,3 @@
 authorizedIDs = {
-"49cbf47368b275055c69c09fe2c949ebcb403717", -- kiss9475
-"264840c45237c61ef532a68897194fec0edb6237", -- Savasina
-"226ee8a704457d6fcbff80ec2a0763a46bd7de76", -- Kingtin
-"8f8a63b2dbd390929851d20b2aa203e6720d307d" -- Bilal
+"226ee8a704457d6fcbff80ec2a0763a46bd7de76",
 }
