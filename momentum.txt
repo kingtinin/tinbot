@@ -1,3 +1,0 @@
-authorizedIDs = {
-"226ee8a704457d6fcbff80ec2a0763a46bd7de7", -- Kingtin
-}
