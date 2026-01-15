@@ -1,3 +1,4 @@
 authorizedIDs = {
-"e9efb63492f5bd5a8437ad8e4f49419b13bade32"
+"e9efb63492f5bd5a8437ad8e4f49419b13bade32",
+"d48f556d7c0eb6bb8bf77075238396ff1c1c859f"
 }
