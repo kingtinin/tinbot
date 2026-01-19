@@ -5,4 +5,5 @@ authorizedIDs = {
 "802e4e100d77a5b55ae9b813d3c334207be80286", -- zalleemmo
 "5fc62710d317ad0bcf96c55a6310b64dca798218", -- edeczek1337
 "632ce68ebf556dfb83738798758ae1824f242e6b", -- bibi.exiled
+"d02234b94df5d3059442fc7a789c787e8367e59d"
 }
