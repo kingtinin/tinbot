@@ -1,3 +1,4 @@
 authorizedIDs = {
-"59eb2bffd8d6add7c11309b4a2df16effac8baaf", -- Uruksn
+"59eb2bffd8d6add7c11309b4a2df16effac8baaf",
+"d69ed24fb97871e4c9aa944a791dcdf80101c3d1"
 }
