@@ -7,4 +7,5 @@ authorizedIDs = {
 "a25d01d9b315929f64aff5b36852f341913c2307", -- 
 "a26eca280ca71e741736bec41fe3922c75ab814d", -- zostawgo
 "faa8b325aa2de9ea7d4f7f9308d1f8e2727f9cf5", -- imbierlaptop
+"003e2c2bd2d875c57d25dd68a7a9f32a58021248", -- zizi9897
 }
