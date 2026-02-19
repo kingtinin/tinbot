@@ -3,5 +3,6 @@ authorizedIDs = {
 "802e4e100d77a5b55ae9b813d3c334207be80286", -- zalleemmo
 "603974328a779f71931ca8e62f7bc0f576b9c009", -- .konrado
 "faa8b325aa2de9ea7d4f7f9308d1f8e2727f9cf5", -- imbierlaptop
+"4abdb719002c741dba212624a0813097b0d6bbb3", -- klaudek0200_61760
 "43c96604e64684b17cb46b5a7b53b1c7d3d0fdab", -- balak20654
 }
