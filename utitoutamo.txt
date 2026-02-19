@@ -8,5 +8,6 @@ authorizedIDs = {
 "73de7cd1349d76f4f9292572399ce1df40caa6af", -- Imbier
 "faa8b325aa2de9ea7d4f7f9308d1f8e2727f9cf5", -- imbierlaptop
 "4abdb719002c741dba212624a0813097b0d6bbb3", -- klaudek0200_61760
+"43c96604e64684b17cb46b5a7b53b1c7d3d0fdab", -- balak20654
 
 }
