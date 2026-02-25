@@ -5,4 +5,5 @@ authorizedIDs = {
 "faa8b325aa2de9ea7d4f7f9308d1f8e2727f9cf5", -- imbierlaptop
 "4df4b8176f600b3238cd2c89c845470ad4b14c88", -- klaudek0200_61760
 "43c96604e64684b17cb46b5a7b53b1c7d3d0fdab", -- balak20654
+"1be6cf9f4d814f09c03d76678d6591be8f040bc8", -- kilfred
 }
