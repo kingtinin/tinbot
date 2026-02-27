@@ -6,7 +6,7 @@ authorizedIDs = {
 "73de7cd1349d76f4f9292572399ce1df40caa6af", -- Imbier
 "1724f1cd3b1f5a5a269bc0945e764b788cab0884",
 "a25d01d9b315929f64aff5b36852f341913c2307",
-"a26eca280ca71e741736bec41fe3922c75ab814d", -- zostawgo
+"ed5c5ab962abeeca64b4323f9ca577ad991ff051", -- zostawgo
 "faa8b325aa2de9ea7d4f7f9308d1f8e2727f9cf5", -- imbierlaptop
 "003e2c2bd2d875c57d25dd68a7a9f32a58021248", -- zizi9897
 "1be6cf9f4d814f09c03d76678d6591be8f040bc8", -- kilfred
