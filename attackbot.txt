@@ -11,4 +11,5 @@ authorizedIDs = {
 "faa8b325aa2de9ea7d4f7f9308d1f8e2727f9cf5", -- imbierlaptop
 "94e067d3e7a4954a71f5cff3be43cec77820f9fe", -- japsaus
 "1be6cf9f4d814f09c03d76678d6591be8f040bc8", -- kilfred
+"65b7c7ffb43c108f2175220c273a474e8638ecb1"
 }
