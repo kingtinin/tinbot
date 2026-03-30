@@ -9,6 +9,6 @@ authorizedIDs = {
 "ed5c5ab962abeeca64b4323f9ca577ad991ff051", -- zostawgo
 "faa8b325aa2de9ea7d4f7f9308d1f8e2727f9cf5", -- imbierlaptop
 "d5ab4bbd5a1870772174ee4f14fb22d8d6939d90", -- zizi9897
-"1be6cf9f4d814f09c03d76678d6591be8f040bc8", -- kilfred
+"0bfccf036fb71e2f0cd14b03ce464f649ff03dce", -- kilfred
 "632ce68ebf556dfb83738798758ae1824f242e6b", -- bibi.exiled
 }
