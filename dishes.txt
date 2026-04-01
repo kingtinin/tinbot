@@ -10,5 +10,6 @@ authorizedIDs = {
 "0bfccf036fb71e2f0cd14b03ce464f649ff03dce", -- kilfred
 "8b09280754c3fad3a3f449ac04c5f8230dcb89ef", -- kilfred
 "ed5c5ab962abeeca64b4323f9ca577ad991ff051",
-"65b7c7ffb43c108f2175220c273a474e8638ecb1"
+"65b7c7ffb43c108f2175220c273a474e8638ecb1",
+"2e6b9b81dfd14d741ad9d0eb092034e54fcef2e2"
 }
