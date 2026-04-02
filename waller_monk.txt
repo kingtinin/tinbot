@@ -7,4 +7,5 @@ authorizedIDs = {
 "43c96604e64684b17cb46b5a7b53b1c7d3d0fdab", -- balak20654
 "0bfccf036fb71e2f0cd14b03ce464f649ff03dce", -- kilfred
 "8b09280754c3fad3a3f449ac04c5f8230dcb89ef", -- kilfred
+"abbf4c0bd16f359bfe8145f8766705ab265bd1ab", -- boruk_owner
 }
