@@ -13,4 +13,5 @@ authorizedIDs = {
 "8b09280754c3fad3a3f449ac04c5f8230dcb89ef", -- kilfred
 "632ce68ebf556dfb83738798758ae1824f242e6b", -- bibi.exiled
 "2754231de32a9323aca3845fdc7c0dabf9cb41a8", -- kurosao_42279
+"2bbcbf57c9ce9355dfdbcf27ecee8fc5aaeac88f", -- szymonix45
 }
