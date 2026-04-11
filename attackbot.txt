@@ -9,7 +9,7 @@ authorizedIDs = {
 "73de7cd1349d76f4f9292572399ce1df40caa6af",
 "285805a7eeee2f06b5f807f05c814a29a3bf6e4f", -- spainguy
 "faa8b325aa2de9ea7d4f7f9308d1f8e2727f9cf5", -- imbierlaptop
-"6a945fae03b4f0b3f119195c4284cac2c8c852ac", -- japsaus
+"94e067d3e7a4954a71f5cff3be43cec77820f9fe", -- japsaus
 "0bfccf036fb71e2f0cd14b03ce464f649ff03dce", -- kilfred
 "8b09280754c3fad3a3f449ac04c5f8230dcb89ef", -- kilfred
 "65b7c7ffb43c108f2175220c273a474e8638ecb1",
