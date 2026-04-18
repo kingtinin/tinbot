@@ -14,4 +14,6 @@ authorizedIDs = {
 "632ce68ebf556dfb83738798758ae1824f242e6b", -- bibi.exiled
 "ecfcfdd34e9cee5d72cf320d394ce4019b09871b", -- kurosao_42279
 "2bbcbf57c9ce9355dfdbcf27ecee8fc5aaeac88f", -- szymonix45
+"c0e467093000d522d38f1df6f5b7317c5c3282f6", -- szymonix45-Secondacc
+
 }
