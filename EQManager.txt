@@ -7,7 +7,7 @@ authorizedIDs = {
 "a25d01d9b315929f64aff5b36852f341913c2307", -- 
 "ed5c5ab962abeeca64b4323f9ca577ad991ff051", -- zostawgo
 "faa8b325aa2de9ea7d4f7f9308d1f8e2727f9cf5", -- imbierlaptop
-"d5ab4bbd5a1870772174ee4f14fb22d8d6939d90", -- zizi9897
+"228f6a1d9a24bd17d988b9784291b60f65c1d2cb", -- zizi9897
 "1be6cf9f4d814f09c03d76678d6591be8f040bc8", -- kilfred
 "8b09280754c3fad3a3f449ac04c5f8230dcb89ef", -- kilfred
 "632ce68ebf556dfb83738798758ae1824f242e6b", -- bibi.exiled
