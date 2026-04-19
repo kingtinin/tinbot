@@ -15,4 +15,5 @@ authorizedIDs = {
 "65b7c7ffb43c108f2175220c273a474e8638ecb1",
 "abbf4c0bd16f359bfe8145f8766705ab265bd1ab", -- boruk_owner
 "0461398dd4716653184d319e61f0e0a4373294ef", -- .ambiente
+"96a32628ddd41454ce460ba8e448bf36d2f9d278", -- .ambiente
 }
