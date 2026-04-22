@@ -9,4 +9,5 @@ authorizedIDs = {
 "8b09280754c3fad3a3f449ac04c5f8230dcb89ef", -- kilfred
 "abbf4c0bd16f359bfe8145f8766705ab265bd1ab", -- boruk_owner
 "be0f83b954f748afedd779e079c5e163c958ace9", -- palleq
+"7829fe88eac0f91af2e2522be8d1c8a8b8024a4c", -- wojcio5148
 }
