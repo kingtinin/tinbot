@@ -13,4 +13,5 @@ authorizedIDs = {
 "8b09280754c3fad3a3f449ac04c5f8230dcb89ef", -- kilfred
 "be0f83b954f748afedd779e079c5e163c958ace9", -- palleq
 "603974328a779f71931ca8e62f7bc0f576b9c009", -- .konrado
+"2dbf094d6497c2df63926681d7f11ead14827726", -- coldfenixx
 }
